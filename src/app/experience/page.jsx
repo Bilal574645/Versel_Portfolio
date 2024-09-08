@@ -39,11 +39,11 @@ function Experience() {
       </div>
     {/* 3   */}
       <div className="md:hidden">
-        <h2 className="flex font-body-text justify-center items-center text-center p-2 text-2xl ">Work, Internship and Volunteership</h2>
+        <h2 className="flex font-body-text justify-center items-center text-center p-2 text-lg ">Work, Internship and Volunteership</h2>
       </div>
    {/* 4    */}
-      <div className="md:hidden flex justify-center">
-        <p className='text-2xl font-body-text text-center  max-w-md  '>
+      <div className="md:hidden  flex justify-center">
+        <p className='text-base  font-body-text text-center  max-w-md  '>
           {"I'm"} a passionate software engineer who loves crafting creative solutions with code. My main area of expertise revolves around building scalable applications using the MERN stack. Additionally, I have a strong enthusiasm for fostering tech communities and actively engage in various tech events. Guiding and supporting aspiring developers as they begin their career paths brings me immense joy because we all know the struggle of finding the missing semicolon. 😉
         </p>
       </div>
@@ -184,7 +184,7 @@ className="w-6 h-4 cursor-pointer "
               <p className="font-body-text text-2xl border-b-2 shadow-xl"> Islamabad, Pakistan</p>
             </div>
             <div>
-            <ul className="text-2xl font-body-text p-2">
+            <ul className="text-base font-body-text p-2">
   <li><strong>Position:</strong> Web Development Intern at <strong>KKSOLUTIONS</strong> (April 2024 - June 2024).</li>
   <li><strong>Responsibilities:</strong></li>
   <ul>
@@ -226,7 +226,7 @@ className="w-6 h-4 cursor-pointer "
   <p className="font-body-text text-2xl border-b-2 shadow-xl"> Islamabad, Pakistan</p>
 </div>
 <div>
-<ul className="text-2xl font-body-text p-2">
+<ul className="text-base font-body-text p-2">
 <li><strong>Responsibilities:</strong></li>
   <ul>
     <li>Worked on developing and implementing deep learning models for various AI applications, including computer vision and natural language processing.</li>
@@ -452,7 +452,7 @@ strokeLinecap="round"
               <p className="tertiary-text">Islamabad, Pakistan</p>
             </div>
             <div>
-              <ul className="text-xl space-x-2">
+              <ul className="text-base space-x-2">
                 <li>– Actively contributed to raising awareness among freshmen about current and future opportunities in web development.</li>
                 <li>– Organized and managed seminars and workshops focused on the MERN and MEAN stacks, NEXT.JS fostering a collaborative learning environment and enhancing the technical skills of participants.</li>
             
@@ -477,7 +477,7 @@ strokeLinecap="round"
               <p className="tertiary-text">Islamabad, Pakistan</p>
             </div>
             <div>
-              <ul className="text-xl space-y-2">
+              <ul className="text-base space-y-2">
               <li><strong>Position:</strong> Developer at <strong>Robotics And Automation Society (R.A.A.S)</strong>.</li>
   <li><strong>Responsibilities:</strong></li>
   <ul>

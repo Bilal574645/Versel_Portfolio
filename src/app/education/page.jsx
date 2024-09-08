@@ -39,7 +39,7 @@ function Education() {
 
 {/* start of div 2 for mobile */}
 
-<div className=' font-heading-text font-semibold text-center text-3xl '>
+<div className=' font-heading-text font-semibold text-center text-2xl '>
 {"{ Degree Received }"}
 </div>
 
@@ -59,7 +59,7 @@ function Education() {
 <h3 className='font-body-text  text-center flex items-center justify-center'>Sep 2021 - Jun 2025 (expected)</h3>
 </div>
 <div className='flex flex-col space-y-10 '>
-<ul className='font-body-text text-2xl '>
+<ul className='font-body-text text-base  space-y-10 p-4 '>
   <li>⚡ Gained extensive knowledge and insights through rigorous Computer Science courses covering areas such as Data Structures, Algorithms, Database Management Systems, Operating Systems, Machine Learning.</li>
   <li>
   ⚡ Got the inside scoop on the entire software development cycle and the industry{"'s"} processes by some specialized software engineering courses like Software Requirements Engineering, Software Design & Architecture, and Software Construction etc.

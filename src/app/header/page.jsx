@@ -57,9 +57,9 @@ function Header() {
 
         <div className="flex flex-col space-y-10 items-center justify-center md:hidden">
           <div>
-            <h1 className="font-heading-text font-semibold text-center text-5xl">Wassup! this is Bilal</h1>
+            <h1 className="font-heading-text font-semibold text-center text-4xl">Wassup! this is Bilal</h1>
           </div>
-          <div className="font-body-text text-2xl text-center flex items-center justify-center  ">
+          <div className="font-body-text text-xl text-center flex items-center justify-center  ">
             A Full-stack developer (MERN,NEXT.JS) 💻 - Flutter Developer ☁️ -
             Problem Solver 🤔.
           </div>
@@ -149,9 +149,9 @@ function Header() {
             </div>
             <div className="flex flex-col  p-4 ">
              <div >
-             <h1 className="font-heading-text font-semibold text-center text-5xl">Full-stack Web Developement</h1>
+             <h1 className="font-heading-text font-semibold text-center text-3xl ">Full-stack Web Developement</h1>
              </div>
-              <div className="flex p-4 justify-center ">
+              <div className="flex p-6 m-8 justify-center ">
                 <Image
                   src={img1}
                   
@@ -310,7 +310,7 @@ function Header() {
         </div>
       </div>
 
-      <div className="flex flex-col  space-y-5  font-body-text text-2xl">
+      <div className="flex flex-col  space-y-5  font-body-text text-base p-6">
         <div className="flex items-start ">
           <p className=" my-3">
             ⚡ Developing responsive single page web applications front end

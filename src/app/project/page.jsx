@@ -32,8 +32,8 @@ function Projects() {
             <h1 className="font-heading-text font-semibold text-center text-5xl">Projects</h1>
         </div>
 {/* 3rd */}
-        <div className="md:hidden">
-            <p className="text-2xl font-body-text sm:text-xl text-center max-w-xl opacity-[0.8] p-4 m-4">With a deep understanding of JS,React, Next.js, Java, C++, C#,  and databases like MongoDB,MY-SQL my expertise lies in developing robust and scalable web applications. By harnessing the power of these technologies, I create engaging user interfaces that deliver exceptional experiences, effectively manage complex application states to ensure seamless data flow, develop efficient server-side APIs and design efficient data models and ensure secure data storage. My proficiency in these technologies enables me to deliver high-quality applications that meet the demands of modern web development. 🫡</p>
+        <div className="md:hidden ">
+            <p className=" font-body-text text-base   max-w-xl opacity-[0.8] p-4 space-y-6 m-4">With a deep understanding of JS,React, Next.js, Java, C++, C#,  and databases like MongoDB,MY-SQL my expertise lies in developing robust and scalable web applications. By harnessing the power of these technologies, I create engaging user interfaces that deliver exceptional experiences, effectively manage complex application states to ensure seamless data flow, develop efficient server-side APIs and design efficient data models and ensure secure data storage. My proficiency in these technologies enables me to deliver high-quality applications that meet the demands of modern web development. 🫡</p>
         </div>
 
 

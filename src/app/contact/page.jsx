@@ -30,8 +30,8 @@ function Contact() {
       </div>
 
       {/* 3rd */}
-      <div>
-        <p className='font-body-text text-2xl text-center p-4 '>{"I'm"} practically the social media version of Batman, always lurking in the shadows of every platform, ready to swoop in and save the day! So, whether you need some industry wizardry or a tech talk virtuoso, just reach out to me. Let{"'s"} connect and sprinkle some laughter into the world of tech! 🤝</p>
+      <div className='space-y-4'>
+        <p className='font-body-text text-base space-y-4 text-center p-4 '>{"I'm"} practically the social media version of Batman, always lurking in the shadows of every platform, ready to swoop in and save the day! So, whether you need some industry wizardry or a tech talk virtuoso, just reach out to me. Let{"'s"} connect and sprinkle some laughter into the world of tech! 🤝</p>
       </div>
 
       {/* 4rd */}
