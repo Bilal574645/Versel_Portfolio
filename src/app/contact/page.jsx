@@ -42,7 +42,7 @@ function Contact() {
      
      <a href="https://www.instagram.com/actor_eg?igsh=YzljYTk1ODg3Zg=="> <Image src={img4} className='size-14' alt='img1'/></a>
 
-     <a href="https://www.instagram.com/actor_eg?igsh=YzljYTk1ODg3Zg=="> <Image src={img6} className='size-14' alt='img1'/></a>
+     <a href="https://www.linkedin.com/in/muhammad-bilal-a21084244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <Image src={img6} className='size-14' alt='img1'/></a>
 
      
       </div>
@@ -97,7 +97,7 @@ function Contact() {
  <a href="https://www.facebook.com/profile.php?id=100017777015574&mibextid=ZbWKwL"><Image src={img2} alt='img1'/></a>
  <a href="https://github.com/Bilal574645"> <Image src={img3} alt='img1'/></a>
  <a href="https://www.instagram.com/actor_eg?igsh=YzljYTk1ODg3Zg=="> <Image src={img4} alt='img1'/></a>
- <a href="https://www.instagram.com/actor_eg?igsh=YzljYTk1ODg3Zg=="> <Image src={img6} alt='img1'/></a>
+ <a href="https://www.linkedin.com/in/muhammad-bilal-a21084244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <Image src={img6} alt='img1'/></a>
 
 
 

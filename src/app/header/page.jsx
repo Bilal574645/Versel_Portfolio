@@ -71,7 +71,7 @@ function Header() {
         <a href="https://www.facebook.com/profile.php?id=100017777015574&mibextid=ZbWKwL"><Image src={img21} alt='img1'/></a>
  <a href="https://github.com/Bilal574645"> <Image src={img31} alt='img1'/></a>
  <a href="https://www.instagram.com/actor_eg?igsh=YzljYTk1ODg3Zg=="> <Image src={img41} alt='img1'/></a>
- <a href="https://www.instagram.com/actor_eg?igsh=YzljYTk1ODg3Zg=="> <Image src={img51} alt='img1'/></a>
+ <a href="https://www.linkedin.com/in/muhammad-bilal-a21084244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <Image src={img51} alt='img1'/></a>
 
           
  
@@ -109,7 +109,7 @@ function Header() {
             <a href="https://www.facebook.com/profile.php?id=100017777015574&mibextid=ZbWKwL"><Image src={img21} alt='img1'/></a>
  <a href="https://github.com/Bilal574645"> <Image src={img31} alt='img1'/></a>
  <a href="https://www.instagram.com/actor_eg?igsh=YzljYTk1ODg3Zg=="> <Image src={img41} alt='img1'/></a>
- <a href="https://www.instagram.com/actor_eg?igsh=YzljYTk1ODg3Zg=="> <Image src={img51} alt='img1'/></a>
+ <a href="https://www.linkedin.com/in/muhammad-bilal-a21084244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <Image src={img51} alt='img1'/></a>
             
 
             </div>
