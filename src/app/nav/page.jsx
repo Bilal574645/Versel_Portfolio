@@ -9,8 +9,8 @@ const Nav = () => {
     setOpen((open) => !open);
   }
   return (
-    <div className='shadow-2xl border-4 p-8 my-2'>
-       <div className="flex flex-col   px-4 mx-4">
+    <div className='shadow-2xl border-4 p-2 '>
+       <div className="flex flex-col  m-2  ">
         {/* navigation start for mobile*/}
         <div className="flex justify-around  lg:hidden items-center  ">
           <div className="logo-div font-bilal-text text-2xl  ">
