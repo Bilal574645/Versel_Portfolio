@@ -7,6 +7,13 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'primary-text': ["leelawadee"], // Add custom font
+        'heading-text': ["Raleway", 'sans-serif'],
+        'bilal-text':["Playwrite CU", 'cursive'],
+        'body-text':["Lato", 'sans-serif'],
+        
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
