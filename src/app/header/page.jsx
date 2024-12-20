@@ -120,7 +120,7 @@ function Header() {
 
 
             <div className="flex justify-center m-10 ">
-              <a href="https://drive.google.com/file/d/1RCY-iGq9gym0-hl4kTylM_STEb-5WxT7/view?usp=sharing">
+              <a href="https://drive.google.com/file/d/12AZWkiZArO7pI-xxc2QtK4yOBvYBT-ul/view?usp=drive_link">
               <button className=" bg-slate-800 px-4 py-2 flex justify-center items-center text-white rounded transition-colors duration-1000 ease-in-out hover:bg-black text-2xl font-bilal-text">
                 Resume 📄
               </button>
