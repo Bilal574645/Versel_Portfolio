@@ -168,33 +168,35 @@ className="w-6 h-4 cursor-pointer "
           <div className="flex flex-col space-y-10 p-4 border-2 px-2 md:hidden text-center ">
 
             <div className="flex justify-center text-center ">
-              <Image className="w-60 h-60 rounded-full" src={img23} alt="kksolution" />
+              <Image className="w-60 h-60 rounded-full" src={img23} alt="CareCloud" />
             </div>
 
             <div>
-              <h1 className=" font-body-text font-bold text-2xl">Web Development Intern</h1>
+              <h1 className=" font-body-text font-bold text-2xl">Junior Software Engineer</h1>
             </div>
             <div>
-              <h2 className="text-2xl font-body-text font-bold">KKSOLUTIONS</h2>
+              <h2 className="text-2xl font-body-text font-bold">Mtbc-CareCloud</h2>
             </div>
             <div>
-              <p className="font-body-text text-2xl">April 2024 - June 2024</p>
+              <p className="font-body-text text-2xl">May 2025 - Present</p>
             </div>
             <div>
               <p className="font-body-text text-2xl border-b-2 shadow-xl"> Islamabad, Pakistan</p>
             </div>
             <div>
             <ul className="text-base font-body-text p-2">
-  <li><strong>Position:</strong> Web Development Intern at <strong>KKSOLUTIONS</strong> (April 2024 - June 2024).</li>
+  <li><strong>Position:</strong> Junior Software Engineer at <strong>Mtbc-CareCloud</strong> (May 2025 - Present).</li>
   <li><strong>Responsibilities:</strong></li>
-  <ul>
-    <li>Developed and maintained web applications using <strong>JavaScript</strong> and <strong>React</strong>, focusing on creating dynamic and responsive user interfaces.</li>
-    <li>Designed and implemented interactive features to enhance user experience, including form validations, real-time updates, and data visualization components.</li>
-    <li>Collaborated with the development team to optimize front-end performance, addressing issues related to speed and efficiency to improve overall application responsiveness.</li>
-    <li>Participated in code reviews and contributed to the improvement of best practices and coding standards within the team.</li>
-    <li>Assisted in troubleshooting and debugging issues, providing timely solutions to ensure smooth application functionality.</li>
-    <li>Contributed to project documentation and prepared reports on development progress and technical challenges.</li>
-  </ul>
+<ul>
+  <li>Develop and maintain enterprise-level healthcare applications using <strong>Angular</strong>, <strong>.NET</strong>, and <strong>SQL Server</strong>, ensuring scalable and secure solutions.</li>
+  <li>Implement and enhance dynamic, responsive, and user-friendly interfaces to improve healthcare system usability.</li>
+  <li>Design and integrate API endpoints, ensuring smooth communication between front-end and back-end services.</li>
+  <li>Collaborate with cross-functional teams to troubleshoot, debug, and resolve application issues in a timely manner.</li>
+  <li>Optimize application performance by improving query execution, reducing load times, and applying best coding practices.</li>
+  <li>Participate in code reviews, contributing to the maintenance of high-quality coding standards and documentation.</li>
+  <li>Assist in database design, schema updates, and writing complex queries to support business requirements.</li>
+</ul>
+
 </ul>
 
             </div>
@@ -254,7 +256,7 @@ className="w-6 h-4 cursor-pointer "
 
 <div className="hidden md:flex  border-2 space-x-20 ">
 <div className="size-96 p-6">
-              <Image className="rounded-full" src={img23} alt="kksolution"  />
+              <Image className="rounded-full" src={img23} alt="CareCloud"  />
             </div>
 
  <div className="flex flex-col space-y-5">
@@ -265,23 +267,25 @@ className="w-6 h-4 cursor-pointer "
             </div>
  </div>    
  <div>
-              <h1 className="font-body-text font-bold text-2xl">Web Development Intern</h1>
+              <h1 className="font-body-text font-bold text-2xl">Junior Software Engineer</h1>
             </div>
             <div>
-              <h2 className="font-body-text text-2xl font-bold">KKSOLUTIONS</h2>
+              <h2 className="font-body-text text-2xl font-bold">Mtbc-CareCloud</h2>
             </div>
             <div>
             <ul className="font-body-text text-2xl">
-  <li><strong>Position:</strong> Web Development Intern at <strong>KKSOLUTIONS</strong> (April 2024 - June 2024).</li>
+  <li><strong>Position:</strong> Junior Software Engineer at <strong>Mtbc-CareCloud</strong> (May 2025 - Present).</li>
   <li><strong>Responsibilities:</strong></li>
-  <ul>
-    <li>Developed and maintained web applications using <strong>JavaScript</strong> and <strong>React</strong>, focusing on creating dynamic and responsive user interfaces.</li>
-    <li>Designed and implemented interactive features to enhance user experience, including form validations, real-time updates, and data visualization components.</li>
-    <li>Collaborated with the development team to optimize front-end performance, addressing issues related to speed and efficiency to improve overall application responsiveness.</li>
-    <li>Participated in code reviews and contributed to the improvement of best practices and coding standards within the team.</li>
-    <li>Assisted in troubleshooting and debugging issues, providing timely solutions to ensure smooth application functionality.</li>
-    <li>Contributed to project documentation and prepared reports on development progress and technical challenges.</li>
-  </ul>
+<ul>
+  <li>Develop and maintain enterprise-level healthcare applications using <strong>Angular</strong>, <strong>.NET</strong>, and <strong>SQL Server</strong>, ensuring scalable and secure solutions.</li>
+  <li>Implement and enhance dynamic, responsive, and user-friendly interfaces to improve healthcare system usability.</li>
+  <li>Design and integrate API endpoints, ensuring smooth communication between front-end and back-end services.</li>
+  <li>Collaborate with cross-functional teams to troubleshoot, debug, and resolve application issues in a timely manner.</li>
+  <li>Optimize application performance by improving query execution, reducing load times, and applying best coding practices.</li>
+  <li>Participate in code reviews, contributing to the maintenance of high-quality coding standards and documentation.</li>
+  <li>Assist in database design, schema updates, and writing complex queries to support business requirements.</li>
+</ul>
+
 </ul>
 
             </div>
@@ -297,7 +301,7 @@ className="w-6 h-4 cursor-pointer "
 
 <div className="hidden md:flex  border-2 space-x-20 ">
 <div className="size-96 p-6">
-              <Image className="rounded-full" src={img24} alt="kksolution"  />
+              <Image className="rounded-full" src={img24} alt="CareCloud"  />
             </div>
 
  <div className="flex flex-col space-y-5">
